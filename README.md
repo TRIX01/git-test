@@ -1,0 +1,1 @@
+This is Trix's first git project
